@@ -3,6 +3,9 @@
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
+## Why?
+
+I realized that my code and process wasn't the best and my knowledge of algorithms are still limited which not allow my thoght process to go very far, so I'm starting from scratch again and building my way up to DSA and I look forward to the process and see what I can do from there!
 
 ## What is this?
 
